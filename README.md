@@ -31,3 +31,10 @@ Steps are really simple:<br>
 
 It’s very easy , just contribute more than 5 articles , that’s all you have to do. You will receive an exclusive Certificate of Star Contributor from us , additionally we will display your profile on the ” Board of Star Contributor ” to acknowledge you for your hard work an dedication .
 <a href="https://procoder.live/contribute/"><h4>Contribute</h4></a>
+
+<img src="https://procoder.live/wp-content/uploads/2020/08/aby-e1598726750946.png">
+<br>
+<h3>Follow our Instagram page</h3> (We regularly upload programming memes, facts related to coding and much more.. )
+<h4><a href="https://www.instagram.com/procoder.live/"><img src="https://procoder.live/wp-content/uploads/2020/08/ins.png">@procoder.live</a></h4>
+<h3>Follow us on Linkedin to get regular official notification</h3>
+<h4><a href="https://www.linkedin.com/company/procoder-live"><img src="https://procoder.live/wp-content/uploads/2020/08/linkedin.png">@procoder.live</a></h4>
