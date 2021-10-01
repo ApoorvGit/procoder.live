@@ -38,3 +38,5 @@ It’s very easy , just contribute more than 5 articles , that’s all you have 
 <h4><a href="https://www.instagram.com/procoder.live/"><img src="https://procoder.live/wp-content/uploads/2020/08/ins.png">@procoder.live</a></h4>
 <h3>Follow us on Linkedin to get regular official notification</h3>
 <h4><a href="https://www.linkedin.com/company/procoder-live"><img src="https://procoder.live/wp-content/uploads/2020/08/linkedin.png">@procoder.live</a></h4>
+
+We contribute together 
